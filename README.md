@@ -16,5 +16,5 @@ of objects in situations when traditional SFM/SLAM
 methods fail because of lack of texture and/or wide
 baseline.
 
-Reference:
+**Reference:**
 Christopher B. Choy, Danfei Xu, JunYoung Gwak, Kevin Chen, Silvio Savarese. 3D-R2N2: A Unified Approach for Single and Multi-view 3D Object Reconstruction https://arxiv.org/abs/1604.00449v1
